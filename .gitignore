@@ -2,3 +2,7 @@
 .idea/workspace.xml
 
 hello-world.iml
+
+.idea/*
+
+.idea/vcs.xml
